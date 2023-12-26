@@ -29,9 +29,14 @@ Explore the dynamic landscape of London's bike sharing system through an in-dept
 ## Outcome
 The project resulted in a refined dataset ready for further analysis and an interactive Tableau dashboard providing a captivating visualization of London's bike sharing trends. The Excel file and Tableau dashboard collectively serve as valuable resources for gaining insights into user behaviors and patterns.
 
+### Link to the vizualization:
+https://public.tableau.com/views/LondonBikeSharing_17035481806790/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Technologies Used
 - Python (Pandas, NumPy)
 - Kaggle API
 - Jupyter Notebooks
 - Tableau
+
+
 
